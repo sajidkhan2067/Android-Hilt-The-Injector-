@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Hilt the injector</string>
+    <string name="ic_arrow_back">Back button</string>
+    <string name="next">Next</string>
+    <string name="start_app">Start App</string>
+    <string name="welcome_image_description">App icon</string>
+    <string name="text_home">Home</string>
+    <string name="text_settings">Settings</string>
+    <string name="text_about">About</string>
+    <string name="text_menu_description">Menu Navigation</string>
+    <string name="text_home_description">Home Navigation</string>
+    <string name="text_settings_description">Settings Navigation</string>
+    <string name="text_info_description">About Navigation</string>
+    <string name="click_to_send_an_email" tools:ignore="ExtraTranslation">Click to send an email</string>
+    <string name="recommendation">Recommendation</string>
+    <string name="welcome_to_the_hilt_injector">Welcome to the Hilt Injector</string>
+    <string name="about">About</string>
+</resources>
